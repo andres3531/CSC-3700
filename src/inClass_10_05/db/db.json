@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "title": "All about me",
+      "author": "Mr GoodAuthor",
+      "cost": 100000.59,
+      "desc": "The Continuing story",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "cost": 10.99,
+      "desc": "A memoir about escaping a rural survivalist family"
+    },
+    {
+      "id": "3",
+      "title": "The Fellowship of the Ring",
+      "author": "J.R. Tolkien",
+      "cost": 11.99,
+      "desc": "The first book of the LOTR trilogy"
+    },
+    {
+      "id": "5",
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "cost": 14.99,
+      "desc": "An astronaut stranded on Mars fights to survive"
+    },
+    {
+      "id": "6",
+      "title": "The Two Towers",
+      "author": "J.R. Tolkien",
+      "cost": 11.99,
+      "desc": "The second book of the LOTR trilogy"
+    },
+    {
+      "title": "Educated Part 2",
+      "author": "Tara Westover",
+      "cost": 100.59,
+      "desc": "The Continuing story",
+      "id": "iO0dMIkLLvU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
