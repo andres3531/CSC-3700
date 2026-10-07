@@ -5,6 +5,7 @@ import About from "./components/About.jsx";
 import BookDetails from "./components/BookDetails.jsx";
 import NavLinkBar from "./components/NavLinkBar.jsx";
 import {Link} from "react-router-dom";
+import Create from "./components/Create.jsx";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
                       <Routes>
                           <Route path="/" element={<BookHome />} />
                           <Route path="/About" element={<About />} />
+                          <Route path="/Create" element={<Create />} />
                           <Route path="/bookdetails/:id" element={<BookDetails />} />
                           <Route path='*' element={
                               <div className='text-center mt-5'>
