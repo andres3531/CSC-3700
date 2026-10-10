@@ -1,20 +1,6 @@
 {
   "books": [
     {
-      "id": "2",
-      "title": "Educated",
-      "author": "Tara Westover",
-      "cost": 10.99,
-      "desc": "A memoir about escaping a rural survivalist family"
-    },
-    {
-      "id": "3",
-      "title": "The Fellowship of the Ring",
-      "author": "J.R. Tolkien",
-      "cost": 11.99,
-      "desc": "The first book of the LOTR trilogy"
-    },
-    {
       "id": "5",
       "title": "The Martian",
       "author": "Andy Weir",
@@ -29,10 +15,10 @@
       "desc": "The second book of the LOTR trilogy"
     },
     {
-      "title": "Sapiens Part 2 ... revenge of the bugs ",
-      "author": "MR Sapien ",
-      "price": 200,
-      "id": "IUvCrRFb6jE"
+      "title": "Faith",
+      "author": "Faith",
+      "cost": 282734342,
+      "id": "IWyU-rEQ9sE"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

@@ -33,6 +33,7 @@ function BookList({ books, title }) {
                 <tr>
                     <th>Title</th>
                     <th>Author</th>
+                    <th>Price</th>
                     <th>Action</th>
                 </tr>
                 </thead>
@@ -41,6 +42,7 @@ function BookList({ books, title }) {
                     <tr key={book.id}>
                         <td>{book.title}</td>
                         <td>{book.author}</td>
+                        <td>{book.cost}</td>
                         <td>
                             <button
                                 type='button'

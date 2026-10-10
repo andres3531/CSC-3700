@@ -29,7 +29,7 @@ function Create() {
         const newBook = {
             title,
             author,
-            price: Number(price)   // convert string input to number
+            cost: Number(price)   // convert string input to number
         }
 
         setIsPending(true)   // disable button, show Saving...
