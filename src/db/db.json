@@ -1,13 +1,6 @@
 {
   "books": [
     {
-      "id": "5",
-      "title": "The Martian",
-      "author": "Andy Weir",
-      "cost": 14.99,
-      "desc": "An astronaut stranded on Mars fights to survive"
-    },
-    {
       "id": "6",
       "title": "The Two Towers",
       "author": "J.R. Tolkien",
@@ -19,6 +12,12 @@
       "author": "Faith",
       "cost": 282734342,
       "id": "IWyU-rEQ9sE"
+    },
+    {
+      "title": "Test book 1",
+      "author": "test book 1",
+      "cost": 2394876,
+      "id": "zsv62ziGYY0"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
